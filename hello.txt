@@ -1,23 +1,5 @@
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
-githubtouch hello.txttouch hello.txthere I am coming~
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+
+
+
